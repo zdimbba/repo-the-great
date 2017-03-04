@@ -1,3 +1,1 @@
-﻿# Repo The Great
-
-![]()
+﻿# Ohjelmistosuunnittelu ja -testaus
